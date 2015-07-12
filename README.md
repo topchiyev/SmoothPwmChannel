@@ -20,4 +20,4 @@ I Could not achieve this neither with the gimbal or flight controller settings (
 * Also thanks to [MultiWii](http://www.multiwii.com/) project team. For their excellent explanation of [Arduino PWM generation](https://code.google.com/p/multiwii/wiki/PWM_Generation) principles and corresponding pieces of code they have published. 
 
 ## Testing
-In development process I wrote a script in JS to test the algorithm. [Here]() You can play with it. 
+In development process I wrote a script in JS to test the algorithm. It is also published in the repository. [Here](http://public.itopchiyev.com/SmoothPwmChannelJS/index.html) You can play with it. 
