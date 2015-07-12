@@ -16,7 +16,8 @@ I Could not achieve this neither with the gimbal or flight controller settings (
 * Heatshrink tubing. To prevent shorting and secure the construction.
 
 ## Thanks
-First of all thanks to Youtube user **diJMedia** for his video explanation of the algorithm: [Smooth Ramping Tilt Zenmuse H3-3D GCU with Open TX Lua script](https://www.youtube.com/watch?v=htn64XRH558&feature=youtu.be) and the [Lua script](https://drive.google.com/file/d/0B8uDnnRUg9SQVkZJTWtlMndiSnM/edit) he provided. I have ported the algorithm to JS for testing and finally to Arduino.
+* First of all thanks to Youtube user **diJMedia** for his video explanation of the algorithm: [Smooth Ramping Tilt Zenmuse H3-3D GCU with Open TX Lua script](https://www.youtube.com/watch?v=htn64XRH558&feature=youtu.be) and the [Lua script](https://drive.google.com/file/d/0B8uDnnRUg9SQVkZJTWtlMndiSnM/edit) he provided. I have ported the algorithm to JS for testing and finally to Arduino.
+* Also thanks to MultiWii project team. For their excellent explanation of [Arduino PWM generation](https://code.google.com/p/multiwii/wiki/PWM_Generation) principles and corresponding pieces of code they have published. 
 
 ## Testing
 In development process I wrote a script in JS to test the algorithm. [Here]() You can play with it. 
