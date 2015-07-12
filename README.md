@@ -15,6 +15,9 @@ I Could not achieve this neither with the gimbal or flight controller settings (
 * Servo extension cable(s). I had one. I have cut 2 piceces 15 cm long with connectors from both sides of the cable. I have soldered these two cables to the corresponding pins on the Arduino board.
 * Heatshrink tubing. To prevent shorting and secure the construction.
 
+## Wiring
+![](https://github.com/topchiyev/SmoothPwmChannel/blob/master/wiring_diagram.jpg)
+
 ## Thanks
 * First of all thanks to Youtube user **diJMedia** for his video explanation of the algorithm: [Smooth Ramping Tilt Zenmuse H3-3D GCU with Open TX Lua script](https://www.youtube.com/watch?v=htn64XRH558&feature=youtu.be) and the [Lua script](https://drive.google.com/file/d/0B8uDnnRUg9SQVkZJTWtlMndiSnM/edit) he provided. I have ported the algorithm to JS for testing and finally to Arduino.
 * Also thanks to [MultiWii](http://www.multiwii.com/) project team. For their excellent explanation of [Arduino PWM generation](https://code.google.com/p/multiwii/wiki/PWM_Generation) principles and corresponding pieces of code they have published. 
